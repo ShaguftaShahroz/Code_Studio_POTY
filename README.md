@@ -1,1 +1,1 @@
-# Code_Studio_POTY
+# Code Studio Problem of the day
